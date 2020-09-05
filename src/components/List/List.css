@@ -1,0 +1,22 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 1em;
+}
+
+.list > li {
+  padding: 1em;
+  border-bottom: 1px solid #eee;
+}
+
+.list .text-name {
+  color: #333;
+}
+
+.list .text-description {
+  color: rgb(114, 114, 114);
+}
+
+.list .text-mute {
+  color: rgb(160, 160, 160);
+}

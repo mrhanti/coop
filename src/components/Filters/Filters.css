@@ -1,0 +1,18 @@
+.filters-container {
+  padding: 1em;
+  background: rgb(245, 245, 245);
+}
+
+.filters-container .field {
+  margin-bottom: 1em;
+}
+
+.text-input,
+.select-input {
+  padding: 0.5em;
+}
+
+.text-input {
+  width: 50%;
+  line-height: 1.8em;
+}

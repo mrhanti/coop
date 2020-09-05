@@ -1,0 +1,23 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font: 1rem / 1.5em 'Helvetica Neue', 'Helvetica', sans-serif;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.search-container .left,
+.search-container .right {
+  flex: 1;
+}

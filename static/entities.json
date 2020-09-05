@@ -1,0 +1,362 @@
+[
+  {
+    "id": "8af05111-9ce0-4552-9b7f-1b32c1c97b2e",
+    "name": "Coopérative Tazwit",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/tazwit",
+    "category": "Argan",
+    "city": "Autres",
+    "description": "Coopérative",
+    "location": {
+      "lat": 31.5250345,
+      "lng": -9.436836399999999
+    }
+  },
+  {
+    "id": "2cdaeece-9cd8-41f4-899d-b44e6371fe0d",
+    "name": "Coopérative Tagoualt de tissage",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/tagoualt",
+    "category": "Artisanat",
+    "city": "Azilal",
+    "description": "Coopérative Tagoualt de",
+    "location": {
+      "lat": 31.5802223,
+      "lng": -9.2599473
+    }
+  },
+  {
+    "id": "927cb499-9143-4ca1-aa2b-2b1f06b2152e",
+    "name": "Coopérative Ennajah",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/ennajah",
+    "category": "Artisanat",
+    "city": "Taza",
+    "description": "Nom: ENNajah Cooperative for Tailoring and Silk Produits Cette coopérative a été créée le 18 juin 2008 - Son siège: Village de l’artisanat de TAZA N° : 16 Composée de 6 participantes et de 6 collaboratrices, la coopérative [...]",
+    "location": {
+      "lat": 31.57525,
+      "lng": -9.56888
+    }
+  },
+  {
+    "id": "ca4b7521-2ec3-49bf-b8e9-54bfdce5f09f",
+    "name": "Coopérative Wahat Al abrar",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/wahat-al-abrar",
+    "category": "Plantes aromatiques et médicinales",
+    "city": "Meknès",
+    "description": "Coopérative Wahat Al",
+    "location": {
+      "lat": 31.5657006,
+      "lng": -9.5395094
+    }
+  },
+  {
+    "id": "b72addd5-4e02-4df9-b98e-41a46f11d76d",
+    "name": "Copérative Dar Alhadgate",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/dar-alhadgate",
+    "category": "Denrées alimentaires",
+    "city": "Benslimane",
+    "description": "Copérative Dar",
+    "location": {
+      "lat": 31.5594129,
+      "lng": -9.3176568
+    }
+  },
+  {
+    "id": "daae1c95-1753-439e-aaa5-8e92a6db9bab",
+    "name": "أيادي مغربية للخياطة والطرز",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/ayadimaghribiya",
+    "category": "Artisanat",
+    "city": "El Youssoufia",
+    "description": "أيادي مغربية للخياطة",
+    "location": {
+      "lat": 31.4368178,
+      "lng": -9.7498306
+    }
+  },
+  {
+    "id": "17d461eb-a9bb-4265-b9e4-28fbff59866f",
+    "name": "التعاونية الفلاحية النسوية بصاصلة",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/bsasla",
+    "category": "Agriculture",
+    "city": "Benslimane",
+    "description": "التعاونية الفلاحية النسوية",
+    "location": {
+      "lat": 31.3921725,
+      "lng": -9.414201499999999
+    }
+  },
+  {
+    "id": "09c10d2a-4ac9-44b0-b97e-8a785754090a",
+    "name": "Coopérative Nassaaim Alatlas",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/nassaaim-alatlas",
+    "category": "Agriculture",
+    "city": "Béni Mellal",
+    "description": "Coopérative Nassaaim",
+    "location": {
+      "lat": 31.5253243,
+      "lng": -9.4372661
+    }
+  },
+  {
+    "id": "5ca906f8-37e9-4e32-88fc-469007f8da7b",
+    "name": "التعاونية الفلاحية الوردة الدمشقية",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/agriculture-alward-adimshky",
+    "category": "Plantes aromatiques et médicinales",
+    "city": "Tinghir",
+    "description": "إنشاء فضاء متعدد الوضائف لتسويق منتوجات التعاونية وتوفير دخل قار لنساء",
+    "location": {
+      "lat": 31.5206189,
+      "lng": -9.63023
+    }
+  },
+  {
+    "id": "6cc5e55b-4115-4f8b-8486-b3cb2aba8b54",
+    "name": "تعاونية لإنتاج، و توزيع منتجات زيت الارڭان",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/taaaony-lentaj-o-tozyaa-mntjat-zyt-alaran",
+    "category": "Argan",
+    "city": "Essaouira",
+    "description": "تعاونية لإنتاج و توزيع منتجات زيت الارڭان تحت إشراف و تسيير العائلة تتوفر على محل للبيع وسط مدينة",
+    "location": {
+      "lat": 31.9223251,
+      "lng": -9.252450999999999
+    }
+  },
+  {
+    "id": "138f1532-f035-4ea7-b992-c1f582d165e0",
+    "name": "التعاونية الفلاحية نسيم درعة",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/altaaaony-alflahy-nsym-draa-1",
+    "category": "Agriculture",
+    "city": "Zagoura",
+    "description": "هي وحدة انتاجية لتثمين التمور المحلية تتكون من غرفة للتبريد وقاعة للفرز والتلفيف وقاعة لتخزين الصناديق البلاستيكية وعلب التلفيف و مرافق صحية و مكتب ، هذا المشروع [...]",
+    "location": {
+      "lat": 31.410393,
+      "lng": -9.714883
+    }
+  },
+  {
+    "id": "5b2b899c-b910-46d0-9b94-cbee268ad027",
+    "name": "Coopérative saharien hafoul",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/hafoul",
+    "category": "Commerce de détail",
+    "city": "smara",
+    "description": "La coopérative \"hfoul alarous\" est une femme 💯 fondée en 2018, avec un effectif de 5 membres, visant à aider à réduire les taux de chômage en offrant des opportunités d'emploi aux femmes de la région en situation de [...]",
+    "location": {
+      "lat": 31.5381521,
+      "lng": -9.484736999999999
+    }
+  },
+  {
+    "id": "aa3c486c-8b96-45e1-90d1-d0ddae62c0bf",
+    "name": "Coopérative El Anka",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/alaanka",
+    "category": "Pêche",
+    "city": "boujdour",
+    "description": "La coopérative El anka pour la pêche maritime",
+    "location": {
+      "lat": 31.5288276,
+      "lng": -9.5440965
+    }
+  },
+  {
+    "id": "176b88fd-3b36-4e63-99ff-b8020d93b4ed",
+    "name": "Coopérative Tadwir",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/tadwir",
+    "category": "Traitement de déchets",
+    "city": "Safi",
+    "description": "Coopérative",
+    "location": {
+      "lat": 31.5339202,
+      "lng": -9.54722
+    }
+  },
+  {
+    "id": "af90e887-aa98-4b11-8037-8110d228689f",
+    "name": "Coopérative Al hatimiyate",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/al-hatimiyate",
+    "category": "Agriculture",
+    "city": "El Jadida",
+    "description": "Coopérative Al hatimiyate  pour l'élevage d'escargots ainsi qu'une coopérative pour la production et la commercialisation de toutes sortes d'épices aromatiques naturelles Conformément à la loi n ° 112.11 sur les coopératives [...]",
+    "location": {
+      "lat": 31.275173,
+      "lng": -9.725634999999999
+    }
+  },
+  {
+    "id": "a1fb903d-6c7e-47dc-94b3-c529d06ba9e5",
+    "name": "Coopérative biotifaouine",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/biotifaouine",
+    "category": "Plantes aromatiques et médicinales",
+    "city": "Midelt",
+    "description": "la coopérative agricole biotifaouine vise a améliorer la situation des femme rurale spécifiquement dans la commune rurale tounfit et aussi l’intégration des femme rurale dans le monde de [...]",
+    "location": {
+      "lat": 31.5212125,
+      "lng": -9.6301071
+    }
+  },
+  {
+    "id": "1fb84284-cd3a-45f8-9f12-c5c4a6b35047",
+    "name": "تعاونية النجاح للإنتاج الحيواني و النباتي",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/taaaony-alnjah-llentaj-alhyoany-o-alnbaty",
+    "category": "Agriculture",
+    "city": "Ouazzane",
+    "description": "تمكنت التعاونية من غرس تقريبا 300 هكتار من الأشجار التين 100 هكتار في دوار تغنيت 180 هكتار في دوار",
+    "location": {
+      "lat": 31.5119626,
+      "lng": -9.7660669
+    }
+  },
+  {
+    "id": "835a5f1a-f594-46b1-a251-543f47eed582",
+    "name": "التعاونية نادي الاستغوار",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/alastghoar",
+    "category": "Tourisme",
+    "city": "Taza",
+    "description": "بما ان المنتزه الوطني لتازكة يتوفر على مسالك جبلية غابوية و ب طلب من مجموعة من الزوار الأجانب و المغاربة الوافدين علينا من مختلف وكالات الأسفار فكرنا في خلق مشروع [...]",
+    "location": {
+      "lat": 31.7700613,
+      "lng": -9.5601098
+    }
+  },
+  {
+    "id": "9ca5ecec-aa10-46cd-beaa-243e181197b4",
+    "name": "Coopérative Ajdigue",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/cooperative-ajdigue",
+    "category": "Agriculture",
+    "city": "Taroudant",
+    "description": "Coopérative",
+    "location": {
+      "lat": 31.52598,
+      "lng": -9.4532648
+    }
+  },
+  {
+    "id": "bbddabb4-8bc2-460e-b4f1-973c155f1a64",
+    "name": "Coopérative RimaSchool Center",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/rimaschool-center",
+    "category": "Alphabétisation",
+    "city": "Demnate",
+    "description": "Coopérative RimaSchool",
+    "location": {
+      "lat": 31.4268264,
+      "lng": -9.7158974
+    }
+  },
+  {
+    "id": "c608bb9d-bc48-4330-a2d9-cc8e59c76202",
+    "name": "Coopérative Couscous Lamzabi",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/couscous-lamzabi",
+    "category": "Denrées alimentaires",
+    "city": "Settat",
+    "description": "Coopérative Couscous",
+    "location": {
+      "lat": 31.5203434,
+      "lng": -9.7581267
+    }
+  },
+  {
+    "id": "58ee9134-d155-4906-8660-0a2469bff734",
+    "name": "coopérative COMAVERA",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/comavera",
+    "category": "Plantes aromatiques et médicinales",
+    "city": "El Kelaâ des Sraghna",
+    "description": "Plantes aromatiques et médicinales Culture et transformation de l'aloe",
+    "location": {
+      "lat": 31.5135804,
+      "lng": -9.7689945
+    }
+  },
+  {
+    "id": "bdce775c-0d91-4c19-86a9-463441cb11f8",
+    "name": "Coopérative Albalsam Chafi",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/albalsam-chafi",
+    "category": "Agriculture",
+    "city": "Ouarzazate",
+    "description": "La coopérative agricole Albalsam Chafi est spécialisée dans production du Miel 100% Naturel et Pur. Notre miel est produit dans des emplacements sélectionnés pour préserver les abeilles des pollutions et traitements nocifs. Il est récolté [...]",
+    "location": {
+      "lat": 31.6158604,
+      "lng": -9.5834759
+    }
+  },
+  {
+    "id": "3c51d4a2-3d90-420d-8037-88973b1be582",
+    "name": "التعاونية الفلاحية العمران لوطا لتربية النحل و إنتاج العسل ومشتقاته",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/alaamran-lota",
+    "category": "Agriculture",
+    "city": "Nador",
+    "description": "التعاونية الفلاحية العمران لوطا لتربية النحل و إنتاج العسل ومشتقاته وبيع زيت",
+    "location": {
+      "lat": 31.5184196,
+      "lng": -9.7629351
+    }
+  },
+  {
+    "id": "4cd8e522-139a-49c6-9c93-da8fb8ba5121",
+    "name": "Coopérative Ait Ayad",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/ait-ayad",
+    "category": "Argan",
+    "city": "Taroudant",
+    "description": "Coopérative Ait",
+    "location": {
+      "lat": 31.7461164,
+      "lng": -9.4030966
+    }
+  },
+  {
+    "id": "5fdec421-aa9b-4121-90c5-75aa2ffdffbb",
+    "name": "تعاونية النجم الفلاحية",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/enajme",
+    "category": "Agriculture",
+    "city": "Béni Mellal",
+    "description": "التعاونية الفلاحية النجم متحصصة في إنتاج و تثمين المنتوجات الفلاحية -العسل الطبيعي -خلايا النحل مملوؤة و الفارغة -جميع مستلزمات تربية [...]",
+    "location": {
+      "lat": 31.5147256,
+      "lng": -9.7692102
+    }
+  },
+  {
+    "id": "6ac06ed2-9d3c-452a-96b4-9997c4f0f7b6",
+    "name": "coopérative randonnée à cheval",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/randonnee-a-cheval",
+    "category": "Agriculture",
+    "city": "El Jadida",
+    "description": "La coopérative el khayl et el khair est une coopérative d'agriculteurs pour l'élevage de chevaux de race pure, la race barbare et barbare arabe crée le 02/7/2009 et le nombre de membres de la coopérative est de 10 membres. Ensuite, ils sont vendus [...]",
+    "location": {
+      "lat": 32.3001854,
+      "lng": -9.2389489
+    }
+  },
+  {
+    "id": "4b56abf9-b5e1-4309-811c-151003d0b2b0",
+    "name": "Coopérative Maharat",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/maharat",
+    "category": "Artisanat",
+    "city": "Ben Guerir",
+    "description": "Coopérative",
+    "location": {
+      "lat": 31.5119626,
+      "lng": -9.7660669
+    }
+  },
+  {
+    "id": "8fdb4a85-7699-4a89-a0fc-6e7d45a7f03f",
+    "name": "التعاونية النسوية الفلاحية إكي إسراس",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/coopiguiisrasse",
+    "category": "Argan",
+    "city": "Agadir",
+    "description": "تعاونية إكي إسراس هي من التعاونيات المعروفة بالجودة و الإتقان في عملها و زيوتها الخالصة ذو جودة عالية بما اننا نتميز بعدة رخصات الجودة [...]",
+    "location": {
+      "lat": 31.5128069,
+      "lng": -9.7721535
+    }
+  },
+  {
+    "id": "34c45194-f8c8-4b04-bad4-ae341c470208",
+    "name": "Coopérative fath lasfer",
+    "name_link": "https://www.coopmaroc.com/fr/cooperative/cooperative-fath-lasfer",
+    "category": "Artisanat",
+    "city": "El Jadida",
+    "description": "Coopérative fath",
+    "location": {
+      "lat": 32.2816941,
+      "lng": -9.221504699999999
+    }
+  }
+]
