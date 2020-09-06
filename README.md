@@ -30,6 +30,11 @@
 
 #### Sunday, 6th September
 
+##### Async / Routing
+
+- Routing
+- Asynchronous API Requests
+
 ##### State management
 
 - Previous state / New State
@@ -37,12 +42,6 @@
 - Function composition
 - Reducers
 - Redux
-
-##### Async / Routing
-
-- Asynchronous API Requests
-- Routing
-- Nested routing
 
 ##### Deploy
 
