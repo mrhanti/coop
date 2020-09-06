@@ -1,0 +1,38 @@
+.home-container {
+  background-color: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.home-jumbotron {
+  padding: 1em;
+  flex: 1;
+  background: rgba(0, 0, 0, 0.6);
+  max-width: 1200px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.home-jumbotron h1 {
+  margin-bottom: 2em;
+  color: #ffffff;
+}
+
+.home-jumbotron .field {
+  flex: 1;
+}
+
+.field-group {
+  display: flex;
+  flex-direction: row;
+}
+
+.submit-button {
+  border: none;
+  padding: 1em;
+  background: rgb(24, 87, 24);
+  color: #ffffff;
+  cursor: pointer;
+}

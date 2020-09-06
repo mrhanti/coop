@@ -1,5 +1,18 @@
 import * as React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import { Router } from '@reach/router';
+import Search from './containers/Search';
+import Home from './containers/Home';
+import Details from './containers/Details';
 
-ReactDOM.render(<App name="Mohamed" />, document.querySelector('#app-root'));
+function App() {
+  return (
+    <Router>
+      <Home path="/" />
+      <Search path="/search" />
+      <Details path="/details/:coopId" />
+    </Router>
+  );
+}
+
+ReactDOM.render(<App />, document.querySelector('#app-root'));

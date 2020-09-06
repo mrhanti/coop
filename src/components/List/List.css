@@ -2,6 +2,8 @@
   list-style: none;
   margin: 0;
   padding: 1em;
+  overflow: scroll;
+  max-height: 800px;
 }
 
 .list > li {

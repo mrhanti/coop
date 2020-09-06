@@ -2,9 +2,9 @@ import * as React from 'react';
 import cities from '../../../static/cities.json';
 import './Filters.css';
 
-export default function Filters({ onChange }) {
-  const [query, setQuery] = React.useState(''); // UI State
-  const [city, setCity] = React.useState(''); // Hooks
+export default function Filters({ onChange, queryParams }) {
+  const [query, setQuery] = React.useState(queryParams.query || ''); // UI State
+  const [city, setCity] = React.useState(queryParams.city || ''); // Hooks
 
   const handleQueryChange = (value) => {
     setQuery(value);
