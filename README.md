@@ -24,7 +24,6 @@
 - Google Maps Integration
 - State - Local state / Shared state
 - State types - UI state / Data state
-- Lifecycle methods / Effects
 
 ##### Q&A
 
@@ -33,6 +32,7 @@
 ##### Async / Routing
 
 - Routing
+- Lifecycle methods / Effects
 - Asynchronous API Requests
 
 ##### State management
